@@ -1,0 +1,5 @@
+Ejercicio 1
+a) Crea un fichero de texto con cualquier editor de textos y después realiza un programa en 
+Java que visualice su contenido.
+b) Cambia el programa Java para que el nombre y ruta del fichero se introduzca desde la línea 
+de comandos.
